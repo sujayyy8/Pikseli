@@ -96,7 +96,9 @@ export class Service{
         }
     }
 
-    // file upload service
+    // for file upload or other similar things
+    // damn im tired of this bullshit
+    // if your reading this plz pray for me 
 
     async uploadFile(file){
         try {
